@@ -1,0 +1,12 @@
+
+{
+  "name": "agilstore",
+  "version": "1.0.0",
+  "description": "CLI em Node.js para gestão automatizada do inventário da AgilStore (adicionar, listar, atualizar, excluir e buscar produtos), com persistência em JSON.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AgilStore / Lilian",
+  "license": "MIT"
+}
